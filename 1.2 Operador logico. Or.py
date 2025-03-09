@@ -1,3 +1,7 @@
+#REALIZADO POR K. NOEMI PASTRANA G., ESTUDIANTE DE ING. EN SOFTWARE Y SISTEMAS COMPUTACIONALES
+#Correo: lic.noemipastrana@gmail.com
+#Realizado el 05 de Marzo del 2025
+
 #Operador logico Or
 #ENTREVISTA DE TRABAJO
 
